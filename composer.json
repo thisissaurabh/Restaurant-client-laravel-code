@@ -60,9 +60,7 @@
         }
     },
     "config": {
-        "github-oauth": {
-            "github.com": "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"
-        },
+
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
